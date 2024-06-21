@@ -1,10 +1,10 @@
 {
-  "name": "console-timer",
+  "name": "shell-timer",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "bin": {
-    "timer": "./index.js"
+    "timer": "./bin.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
